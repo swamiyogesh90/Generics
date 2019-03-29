@@ -1,4 +1,4 @@
-package com;
+package com.main;
 
 class MyGenericClassWithExtends<T extends Number> {
 
